@@ -110,8 +110,6 @@ gradle-app.setting
 ## Build generated
 build/
 DerivedData/
-ios/
-android/
 
 ## Various settings
 *.pbxuser
