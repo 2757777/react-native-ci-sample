@@ -1244,7 +1244,7 @@
 					"-lc++",
 				);
 				PRODUCT_NAME = ReactNativeCiSample;
-				PROVISIONING_PROFILE = "a8963ce0-4055-4e66-a789-159502c468a0";
+				PROVISIONING_PROFILE = "6ac0de8e-8c3f-4e4e-8735-1a4a021a5874";
 				PROVISIONING_PROFILE_SPECIFIER = "Everything-AdHoc";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
